@@ -24,7 +24,7 @@ Preprint (02/2022, last update: 05/2023): [Optimization Online](https://optimiza
 
 __A Brief Introduction to Robust Bilevel Optimization__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-In: [SIAG on Optimization Views and News. A Forum for the SIAM Activity Group on Optimization](https://siagoptimization.github.io/). 2022. Volume 30. Number 2. Pages 1-10  
+In: [SIAG on Optimization Views and News. A Forum for the SIAM Activity Group on Optimization](https://siagoptimization.github.io/). 2022. Vol. 30 (2). pp. 1-10.  
 Preprint (11/2022, last update: 01/2023): [Optimization Online](https://optimization-online.org/2022/11/a-brief-introduction-to-robust-bilevel-optimization/), [arXiv](https://arxiv.org/abs/2211.16072)  
 
 __A Survey on Bilevel Optimization Under Uncertainty__  
