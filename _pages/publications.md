@@ -14,7 +14,7 @@ Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt]
 
 __Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Accepted for publication (05/2023) in [Mathematical Programming Computation](https://www.springer.com/journal/12532). DOI: 10.1007/s12532-023-00244-6.   
+In: [Mathematical Programming Computation](https://www.springer.com/journal/12532). DOI: [10.1007/s12532-023-00244-6](https://doi.org/10.1007/s12532-023-00244-6).   
 Preprint (11/2021, last update: 04/2023): [Optimization Online](https://optimization-online.org/2021/11/8678/), [TRR 154 Preprint Server](https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/471)  
 
 __On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level__  
