@@ -6,9 +6,10 @@ layout: single
 classes: wide
 ---
 
-## In Preparation  
+## Submitted Works/Preprints  
 __An Extension of the Bertsimas & Sim Result for Discrete, Linear, and $\Gamma$-Robust Min-Max Problems__  
-Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
+Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)
+Preprint (07/2023): [Optimization Online]((https://optimization-online.org/2023/07/an-extension-of-the-bertsimas-sim-result-for-discrete-linear-and-%ce%b3-robust-min-max-problems/)  
 
 ## Journal Articles  
 
