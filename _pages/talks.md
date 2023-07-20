@@ -45,11 +45,11 @@ December 14, 2021, Trier
 
 __Bounded Rationality in Bilevel Optimization__  
 fORum - Edinburgh & Trier Joint PhD Seminar  
-November 5, 2021, Edinburgh, Trier  
+November 5, 2021, Edinburgh, Trier (remote)  
 
 __A Robust Approach for Modeling Limited Observability in Bilevel Optimization__  
 [EURO 2021 Conference](https://euro2021.euro-online.org/)  
-July 13, 2021, Athens  
+July 13, 2021, Athens (remote)  
 
 __A Branch-and-Cut Framework for $\Gamma$-Robust Bilevel Optimization__  
 [ALOP](https://alop.uni-trier.de/) Research Seminar  
