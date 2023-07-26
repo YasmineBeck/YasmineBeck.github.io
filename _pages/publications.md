@@ -41,4 +41,4 @@ Preprint (01/2021; last update 04/2021): [Optimization Online](https://optimizat
 ## Miscellaneous  
 __A Gentle and Incomplete Introduction to Bilevel Optimization__  
 Jointly with [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Publicly available lecture notes (last update 11/2021): [Optimization Online](https://optimization-online.org/2021/06/8450/), [TRR 154 Preprint Server](https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/392)  
+Publicly available lecture notes (last update 07/2023): [Optimization Online](https://optimization-online.org/2021/06/8450/), [TRR 154 Preprint Server](https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/392)  
