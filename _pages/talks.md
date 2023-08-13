@@ -7,6 +7,10 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
+__Exact Methods for Discrete Min-Max Problems with a Gamma-Robust Lower Level__  
+[International Conference on Bilevel Optimization](https://www.bilevelconference2023.org/)  
+August 9, 2023, Southampton  
+
 __Exact Methods for Discrete Bilevel Problems with a Gamma-Robust Lower Level__  
 [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23)  
 June 1, 2023, Seattle  
