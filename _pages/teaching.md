@@ -10,7 +10,7 @@ class: wide
   <div class="image-wrapper">
     <img src="{{ site.url }}{{ site.baseurl }}/images/beyond_opt_transparent.png" alt="">
     <div class="image-overlay">
-      <p class="image-text"><b>Beyond Optimization:</b><br><b>A Primer on Complementarity Problems, Variational Inequalities, and Game Theory</b><br>To be held in the winter term 2023/24</p>
+      <p class="image-text"><b>Beyond Optimization:</b><br><b>A Primer on Complementarity Problems, Variational Inequalities, and Game Theory</b><br>Winter term 2023/24</p>
     </div>
   </div>
   <div class="image-wrapper">
