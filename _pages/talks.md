@@ -7,6 +7,10 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
+__An Introduction to Transportation Problems__  
+Lecture Series of the [SIAM Student Chapter Trier](https://www.uni-trier.de/index.php?id=24339&L=2)  
+December 12, 2023, Trier  
+
 __Exact Methods for Discrete Min-Max Problems with a Gamma-Robust Lower Level__  
 [International Conference on Bilevel Optimization](https://www.bilevelconference2023.org/)  
 August 9, 2023, Southampton  
