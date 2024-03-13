@@ -7,6 +7,10 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
+__On Decision Uncertainty in Bilevel Optimization__  
+[ERGO Seminar](https://www.maths.ed.ac.uk/school-of-mathematics/events/ergo)  
+March 13, 2024, Edinburgh  
+
 __An Introduction to Transportation Problems__  
 Lecture Series of the [SIAM Student Chapter Trier](https://www.uni-trier.de/index.php?id=24339&L=2)  
 December 12, 2023, Trier  
