@@ -7,7 +7,7 @@ classes: wide
 ---
 ## In Preparation
 
-__Heuristics for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems__  
+__Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
 
 ## Journal Articles  
