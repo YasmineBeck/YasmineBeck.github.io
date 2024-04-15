@@ -40,7 +40,7 @@ class: wide
   <div class="image-wrapper">
     <img src="{{ site.url }}{{ site.baseurl }}/images/nonlinear_opt_transparent.png" alt="">
     <div class="image-overlay">
-      <p class="image-text"><b>Nonlinear Optimization</b><br>To be held in the summer term 2024</p>
+      <p class="image-text"><b>Nonlinear Optimization</b><br>Summer term 2024</p>
     </div>
   </div>
   <div class="image-wrapper">
