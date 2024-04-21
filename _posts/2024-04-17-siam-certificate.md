@@ -9,4 +9,4 @@ tag:
 
 What an honest surprise! I am incredibly grateful to be honored today for my efforts within the SIAM Chapter at Trier University. It was truly my pleasure!
 
-![SIAM Certificate](images/siam-certificate.jpg)
+![SIAM Certificate](/images/siam-certificate.jpg)
