@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 classes: wide
 ---
-## Submitted Work/Preprints  
+## Submitted Works/Preprints  
 
 __Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
