@@ -5,7 +5,11 @@ author_profile: true
 layout: single
 classes: wide
 ---
-## Submitted Works/Preprints  
+## Submitted Works/Preprints
+
+__A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
+Jointly with Martine Labbe and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
+Preprint (07/2024): [Optimization Online](https://optimization-online.org/?p=26949)  
 
 __Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
