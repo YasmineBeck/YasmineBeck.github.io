@@ -7,6 +7,10 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
+__A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
+[International Symposium on Mathematical Programmin (ISMP)](https://ismp2024.gerad.ca/)  
+July 24, 2024, Montreal  
+
 __On Decision Uncertainty in Bilevel Optimization__  
 [ERGO Seminar](https://www.maths.ed.ac.uk/school-of-mathematics/events/ergo)  
 March 13, 2024, Edinburgh  
