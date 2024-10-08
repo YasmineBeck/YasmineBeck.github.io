@@ -39,6 +39,10 @@ __Exact Methods for Discrete Gamma-Robust Min-Max Problems__
 [EURO 2022 Conference](https://euro2022espoo.com/)  
 July 6, 2022, Espoo  
 
+__On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level__  
+[Women in Optimization Workshop](https://www.mathematik.hu-berlin.de/de/termine-und-veranstaltungen-portlet-ordner/konferenzen-kolloquia-workshops-und-seminare/workshop-in-der-reihe-women-in-optimization)  
+June 15, 2022, Berlin (poster session)  
+
 __Bounded Rationality in Bilevel Optimization__  
 fORum - Edinburgh & Trier Joint PhD Seminar  
 November 5, 2021, Edinburgh, Trier (remote)  
@@ -50,11 +54,3 @@ July 13, 2021, Athens (remote)
 __A Branch-and-Cut Framework for $\Gamma$-Robust Bilevel Optimization__  
 [ALOP](https://alop.uni-trier.de/) Research Seminar  
 June 30, 2021, Trier  
-
-<br style="line-height: 3em;">
-<h1 style="font-size: 40px;">Scientific Posters</h1>
-<br style="line-height: 1em;">
-
-__On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level__  
-[Women in Optimization Workshop](https://www.mathematik.hu-berlin.de/de/termine-und-veranstaltungen-portlet-ordner/konferenzen-kolloquia-workshops-und-seminare/workshop-in-der-reihe-women-in-optimization)  
-June 15, 2022, Berlin
