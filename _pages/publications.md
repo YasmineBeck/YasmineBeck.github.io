@@ -11,9 +11,9 @@ __A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budget
 Jointly with Martine Labbe and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
 Preprint (07/2024): [Optimization Online](https://optimization-online.org/?p=26949)  
 
-__Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems__  
+__Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Preprint (04/2024): [Optimization Online](https://optimization-online.org/?p=26186)  
+Preprint (04/2024, last update 10/2024): [Optimization Online](https://optimization-online.org/?p=26186)  
 
 ## Journal Articles  
 
