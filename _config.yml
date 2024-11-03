@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Yasmine Beck"
-  avatar           : "images/Yasmine_Beck.jpg"
-  bio              : "PhD student in mathematical optimization at Trier University"
-  location         : "Trier, Germany"
+  avatar           : "images/YasmineBeck.jpg"
+  bio              : "Postdoctoral Researcher in Mathematical Optimization at ESSEC"
+  location         : 
   email            : "yasmine.beck@uni-trier.de"
   twitter          : 
   github           : "YasmineBeck"
