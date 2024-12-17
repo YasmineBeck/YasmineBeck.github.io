@@ -7,6 +7,7 @@ tag:
   - Bilevel Optimization
   - Robust Optimization
   - Knapsack Interdiction
+  - Network Pricing
   - Wardrop Equilibria
 ---
 
