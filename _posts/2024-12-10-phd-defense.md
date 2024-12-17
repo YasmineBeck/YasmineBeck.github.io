@@ -8,7 +8,7 @@ tag:
   - Robust Optimization
   - Knapsack Interdiction
   - Network Pricing
-  - Wardrop Equilibria
+  - Wardrop Equilibrium
 ---
 
 I successfully defended my PhD thesis entitled "Mixed-Integer Optimization Techniques for Robust Bilevel Problems with Here-and-Now Followers" (supervised by Martin Schmidt, Trier University) today!
