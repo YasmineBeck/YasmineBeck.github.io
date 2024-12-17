@@ -36,7 +36,7 @@ __On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconv
 September 9, 2022, Karlsruhe  
 
 __Exact Methods for Discrete Gamma-Robust Min-Max Problems__  
-[EURO 2022 Conference](https://euro2022espoo.com/)  
+EURO 2022 Conference  
 July 6, 2022, Espoo  
 
 __On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level__  
