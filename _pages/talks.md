@@ -7,7 +7,7 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
-__Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__
+__Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__  
 [27th Aussois Combinatorial Optimization Workshop](https://cow25.sciencesconf.org/)  
 January 10, 2025, Aussois
 

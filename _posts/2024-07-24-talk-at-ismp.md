@@ -10,4 +10,4 @@ tag:
   - Wardrop Equilibrium
 ---
 
-I had the pleasure to present our work on "A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty" (jointly with Martine Labbé and Martin Schmidt). You missed the talk? You can find all the details [here](https://optimization-online.org/?p=26949).
+I had the pleasure to present our work on "A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty" (jointly with Martine Labbé and Martin Schmidt) at the [ISMP](https://ismp2024.gerad.ca/). You missed the talk? You can find all the details [here](https://optimization-online.org/?p=26949).
