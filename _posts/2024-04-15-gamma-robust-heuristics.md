@@ -9,4 +9,4 @@ tag:
   - Knapsack Interdiction
 ---
 
-When a revision becomes a new paper: Our preprint "Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems (jointly with Ivana Ljubic and Martin Schmidt) is online! You can find it [here](https://optimization-online.org/?p=26186).
+When a revision becomes a new paper: Our preprint "Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems" (jointly with Ivana Ljubic and Martin Schmidt) is online! You can find it [here](https://optimization-online.org/?p=26186).

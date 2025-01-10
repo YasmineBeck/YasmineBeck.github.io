@@ -7,6 +7,10 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
+__Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__
+[27th Aussois Combinatorial Optimization Workshop](https://cow25.sciencesconf.org/)  
+January 10, 2025, Aussois
+
 __A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
 [International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/)  
 July 24, 2024, Montreal  
