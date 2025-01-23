@@ -5,17 +5,18 @@ author_profile: true
 layout: single
 classes: wide
 ---
-## Submitted Works/Preprints
+## Submitted Works/Preprints  
 
 __A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
 Jointly with Martine Labbe and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
 Preprint (07/2024): [Optimization Online](https://optimization-online.org/?p=26949)  
 
+## Journal Articles
+
 __Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
+Accepted for publication (01/2025) in [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  
 Preprint (04/2024, last update 01/2025): [Optimization Online](https://optimization-online.org/?p=26186)  
-
-## Journal Articles  
 
 __Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
