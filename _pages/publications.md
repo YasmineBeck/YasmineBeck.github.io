@@ -15,7 +15,7 @@ Preprint (07/2024): [Optimization Online](https://optimization-online.org/?p=269
 
 __Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__  
 Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Accepted for publication (01/2025) in [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  
+Accepted for publication (02/2025) in [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  
 Preprint (04/2024, last update 01/2025): [Optimization Online](https://optimization-online.org/?p=26186)  
 
 __Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem__  
@@ -43,7 +43,10 @@ Jointly with [Martin Schmidt](https://martinschmidt.squarespace.com/home)
 In: [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters). DOI: [10.1016/j.orl.2021.07.010](https://www.sciencedirect.com/science/article/abs/pii/S0167637721001188?via%3Dihub)  
 Preprint (01/2021; last update 04/2021): [Optimization Online](https://optimization-online.org/2021/01/8200/), [TRR 154 Preprint Server](https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/363)  
 
-## Miscellaneous  
+## Miscellaneous
+__[Mixed-Integer Optimization Techniques for Robust Bilevel Problems with Here-and-Now Followers](https://ubt.opus.hbz-nrw.de/frontdoor/index/index/docId/2432)__  
+Dissertation, Trier University
+
 __A Gentle and Incomplete Introduction to Bilevel Optimization__  
 Jointly with [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
 Publicly available lecture notes (last update 07/2023): [Optimization Online](https://optimization-online.org/2021/06/8450/), [TRR 154 Preprint Server](https://opus4.kobv.de/opus4-trr154/frontdoor/index/index/docId/392)  
