@@ -1,6 +1,6 @@
 ---
 title:  "I received the IJoC Meritorious Reviewer Award!"
-date: January 12, 2025
+date: February 12, 2025
 show_date: true
 share: false
 tag:
