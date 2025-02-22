@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #0d1e51 !default;
+$text-color: #09163b !default; /* my-dark-blue #0d1e51*/
 $muted-text-color: $text-color !default;
-$primary-color: #2250d9 !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
+$primary-color: #2250d9 !default; /*my-royal-blue #2250d9*/
+$border-color: mix(#fafafa, $text-color, 75%) !default;
 $footer-background-color: #fafafa !default; /* mix(#fff, $text-color, 75%) */
-$link-color: mix(#000, #2250d9, 50%) !default;
-$link-color-hover: #2250d9 !default;
+$link-color: $text-color !default;
+$link-color-hover: $primary-color !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$navicon-link-color-hover: mix(#fafafa, $text-color, 80%) !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
