@@ -85,9 +85,17 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  margin: 0 !important;
+  padding: 0 !important;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+
+  a {
+    padding: 0.5em 1em;
+    margin: 0 !important;
+    display: block;
   }
 }
