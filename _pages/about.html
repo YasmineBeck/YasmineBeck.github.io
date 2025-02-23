@@ -22,37 +22,92 @@ class: wide
     h2 {
 	margin-top: 40px;
     }
+
+    .desktop-only {
+	display: block;
+    }
+    
+    .mobile-only {
+	display: none;
+    }
+    
+    /* Mobile View */
+    @media (max-width: 768px) {
+	.desktop-only {
+	    display: none;
+	}
+	.mobile-only {
+	    display: block;
+	}
+    }
   </style>
 </head>
 
-<div style="display: flex; align-items: center; max-width: 100%; margin: 0 auto;">
-  <!-- Contact -->
-  <div style="flex: 1; margin-right: 80px;">
-    <h2>Contact</h2>
-    <p style="font-size: 0.8em;">
-      ESSEC Business School<br>
-      Department of Information Systems, Data Analytics and Operations<br>
-      3 Avenue Bernard Hirsch<br>
-      95021 Cergy-Pontoise Cedex, France
-    </p>
+<!-- Browser View -->
+<div class="desktop-only">
+  <div style="display: flex; align-items: center; max-width: 100%; margin: 0 auto;">
+    <!-- Contact -->
+    <div style="flex: 1; margin-right: 80px;">
+      <h2>Contact</h2>
+      <p style="font-size: 0.8em;">
+	ESSEC Business School<br>
+	Department of Information Systems, Data Analytics and Operations<br>
+	3 Avenue Bernard Hirsch<br>
+	95021 Cergy-Pontoise Cedex, France
+      </p>
+      
+      <div style="text-align: center; max-width: 85%; margin-top: 50px;">
+	<a href="mailto:yasmine.beck@essec.edu" style="margin: 0 20px;">
+	  <i class="fas fa-envelope" style="font-size: 1.5em;"></i></a>
+	<a href="https://www.linkedin.com/in/yasmine-beck-310659163/" style="margin: 0 20px;">
+	  <i class="fab fa-linkedin" style="font-size: 1.5em;"></i></a>
+	<a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 20px;">
+	  <i class="ai ai-google-scholar" style="font-size: 1.5em;"></i></a>
+	<a href="https://github.com/YasmineBeck" style="margin: 0 20px;">
+	  <i class="fab fa-github" style="font-size: 1.5em;"></i></a>
+	<a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 20px;">
+	  <i class="ai ai-orcid" style="font-size: 1.5em;"></i></a>
+      </div>
+    </div>
     
-    <div style="text-align: center; max-width: 85%; margin-top: 50px;">
-      <a href="mailto:yasmine.beck@essec.edu" style="margin: 0 20px;">
-	<i class="fas fa-envelope" style="font-size: 1.5em;"></i></a>
-      <a href="https://www.linkedin.com/in/yasmine-beck-310659163/" style="margin: 0 20px;">
-	<i class="fab fa-linkedin" style="font-size: 1.5em;"></i></a>
-      <a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 20px;">
-	<i class="ai ai-google-scholar" style="font-size: 1.5em;"></i></a>
-      <a href="https://github.com/YasmineBeck" style="margin: 0 20px;">
-	<i class="fab fa-github" style="font-size: 1.5em;"></i></a>
-      <a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 20px;">
-	<i class="ai ai-orcid" style="font-size: 1.5em;"></i></a>
+    <!-- Image -->
+    <div style="flex: 0 0 320px; margin-right: 40px;">
+      <img src="/images/YasmineBeck.JPEG" alt="Yasmine Beck" style="width: 320px; border-radius: 50%;">
     </div>
   </div>
+</div>
 
-  <!-- Image -->
-  <div style="flex: 0 0 320px; margin-right: 40px;">
-    <img src="/images/YasmineBeck.JPEG" alt="Yasmine Beck" style="width: 320px; border-radius: 50%;">
+<!-- Mobile View -->
+<div class="mobile-only">
+  <div style="flex-direction: column; text-align: center;">
+    <!-- Image -->
+    <div style="order: 1; margin: 0 auto 20px auto;">
+      <img src="/images/YasmineBeck.JPEG" alt="Yasmine Beck" style="width: 320px; border-radius: 50%;">
+    </div>
+    
+    <!-- Contact -->
+    <div style="order: 3; margin: 20px;">
+      <h2 style="text-align: left;">Contact</h2>
+      <p style="font-size: 0.8em;">
+	ESSEC Business School<br>
+	Department of Information Systems, Data Analytics and Operations<br>
+	3 Avenue Bernard Hirsch<br>
+	95021 Cergy-Pontoise Cedex, France
+      </p>
+      
+      <div style="order: 2; margin-top: 20px; text-align: center;">
+	<a href="mailto:yasmine.beck@essec.edu" style="margin: 0 20px;">
+	  <i class="fas fa-envelope" style="font-size: 1.5em;"></i></a>
+	<a href="https://www.linkedin.com/in/yasmine-beck-310659163/" style="margin: 0 20px;">
+	  <i class="fab fa-linkedin" style="font-size: 1.5em;"></i></a>
+	<a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 20px;">
+	  <i class="ai ai-google-scholar" style="font-size: 1.5em;"></i></a>
+	<a href="https://github.com/YasmineBeck" style="margin: 0 20px;">
+	  <i class="fab fa-github" style="font-size: 1.5em;"></i></a>
+	<a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 20px;">
+	  <i class="ai ai-orcid" style="font-size: 1.5em;"></i></a>
+      </div>
+    </div>
   </div>
 </div>
 
