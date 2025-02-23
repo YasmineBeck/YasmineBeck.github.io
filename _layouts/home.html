@@ -4,21 +4,22 @@ layout: archive
 
 {{ content }}
 
-<h1 class="archive__subtitle" style="font-size: 30px; color: $text-color;">{{ site.data.ui-text[site.locale].recent_posts | default: "News" }}</h1>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-<!-- {% include paginator.html %} -->
-
-<div style="text-align: center; position: relative; bottom: 0; width: 100%; padding: 10px 0;">
-  <a href="/news/">See all posts</a>
-</div>
+<!--
+    <h1 class="archive__subtitle" style="font-size: 0.9em; color: $text-color;">{{ site.data.ui-text[site.locale].recent_posts | default: "News" }}</h1>
+    
+    {% if paginator %}
+    {% assign posts = paginator.posts %}
+    {% else %}
+    {% assign posts = site.posts %}
+    {% endif %}
+    
+    <div class="entries-{{ entries_layout }}">
+      {% for post in posts %}
+      {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    
+    <div style="font-size: 0.8em; text-align: center; position: relative; bottom: 0; width: 100%; padding: 10px 0;">
+      <a href="/news/">See all news</a>
+    </div>
+-->

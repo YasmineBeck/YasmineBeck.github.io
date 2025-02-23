@@ -5,7 +5,7 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
-
+/* <-------------------------------
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -16,6 +16,7 @@
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
+-------------------------------> */
 }
 
 .archive__item {
@@ -33,11 +34,10 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0.5em;
-  padding-bottom: 0.5em;
+  margin: 0.5em 0 0.5em;
+  padding-bottom: 0em;
   font-size: $type-size-5;
   color: $muted-text-color;
-  border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -47,6 +47,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: 1em;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -134,7 +135,7 @@
 
 .list__item {
   .page__meta {
-    margin: 0 0 4px;
+    margin: 0 0 2px;
     font-size: 0.6em;
   }
 }
@@ -146,7 +147,7 @@
 .archive {
   .grid__wrapper {
     /* extend grid elements to the right */
-
+/* <-------------------------------
     @include breakpoint($large) {
       margin-right: -1 * $right-sidebar-width-narrow;
     }
@@ -154,6 +155,7 @@
     @include breakpoint($x-large) {
       margin-right: -1 * $right-sidebar-width;
     }
+-------------------------------> */
   }
 }
 

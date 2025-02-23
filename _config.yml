@@ -105,20 +105,20 @@ analytics:
 # Site Author
 author:
   name             : "Yasmine Beck"
-  avatar           : "images/YasmineBeck.JPEG"
-  bio              : "Postdoctoral Researcher in Mathematical Optimization"
-  location         : 
-  email            : "yasmine.beck@essec.edu"
-  twitter          : 
-  github           : "YasmineBeck"
-  linkedin         : "yasmine-beck-310659163"
+  avatar           : #
+  bio              : #
+  location         : #
+  email            : #
+  twitter          : #
+  github           : #
+  linkedin         : #
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: # "https://twitter.com/beck_yasmine"
+      # url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

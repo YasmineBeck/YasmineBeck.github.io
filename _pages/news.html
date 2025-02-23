@@ -1,10 +1,90 @@
 ---
 title: "News"
-layout: archive
 permalink: /news/
-author_profile: true
+layout: archive
+classes: wide
+author_profile: false
 ---
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<head>
+  <style>  
+    .content {
+	font-size: 0.8em;
+    }
+
+    li {
+	margin-left: 20px;
+    }
+
+    ul {
+	padding-left: 0;
+    }
+  </style>
+</head>
+
+<div class="content">
+  <ul>
+    <li>
+      <strong>February 12, 2025:</strong>
+      I am excited to share that I received the
+      <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2025.merits.v37.n2" style="text-decoration: none;">
+	<strong> 2024 INFORMS Journal on Computing Meritorious Reviewer Award</strong></a>.
+    </li>
+    <li>
+      <strong>January 10, 2025:</strong>
+      I presented our work on <strong>Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) at the <a href="https://cow25.sciencesconf.org/" style="text-decoration: none;">27th Aussois Combinatorial Optimization Workshop</a> in Aussois. You can find the preprint <a href="https://optimization-online.org/?p=26186">here</a>.
+    </li>
+    <li>
+      <strong>January 03, 2025:</strong>
+      I am excited to share that I received the <strong>2024 YoungWomen4OR Award</strong> from the <a href="https://www.euro-online.org/web/pages/1654/wisdom" style="text-decoration: none;">WISDOM forum of the EURO association</a>.
+    </li>
+    <li>
+      <strong>December 10, 2024:</strong>
+      Today, I successfully defended my PhD thesis titled <strong>Mixed-Integer Optimization Techniques for Robust Bilevel Problems with Here-and-Now Followers</strong> supervised by Martin Schmidt.
+    </li>
+    <li>
+      <strong>November 13, 2024:</strong>
+      Our paper <strong>On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level</strong> (jointly with Daniel Bienstock, Martin Schmidt, and Johannes Th&uuml;rauf) has been awarded the <strong>2nd prize of the <a href="https://www.uni-trier.de/forschung/graduiertenzentrum-gut/foerderung/publikationspreis" style="text-decoration: none;">GUT Publication Award</a></strong> at Trier University. You can find the paper <a href="https://link.springer.com/article/10.1007/s10957-023-02238-9">here</a>.
+    </li>
+    <li>
+      <strong>July 24, 2024:</strong>
+      Today, I gave a talk about our paper <strong>A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty</strong> (jointly with Martine Labb&eacute; and Martin Schmidt) at <a href="https://ismp2024.gerad.ca/" style="text-decoration: none;">ISMP</a>. You can find the preprint <a href="https://optimization-online.org/?p=26949">here</a>.
+    </li>
+    <li>
+      <strong>April 17, 2024:</strong>
+      I am incredibly grateful to be honored with the <strong>SIAM Certificate for Outstanding Efforts and Accomplishments</strong> for my efforts within the <a href="https://www.uni-trier.de/en/studies/life/student-associations/siam-student-chapter/start" style="text-decoration: none;">SIAM Student Chapter at Trier University</a>.
+    </li>
+    <li>
+      <strong>April 15, 2024:</strong>
+      When a revision becomes a new paper: Our preprint <strong>Heuristic Methods for Mixed-Integer, Linear, and $\Gamma$-Robust Bilevel Problems</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) is online! You can find it <a href="https://optimization-online.org/?p=26186">here</a>.
+    </li>
+    <li>
+      <strong>March 13, 2024:</strong>
+      Today, I gave a talk about decision uncertainty in bilevel optimization within the ERGO seminar series at the University of Edinburgh. If you are interested in this topic, you should have a look at our survey <strong>Bilevel Optimization Under Uncertainty</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt). You can find it <a href="https://www.sciencedirect.com/science/article/pii/S0377221723000073?via%3Dihub">here</a>.
+    </li>
+    <li>
+      <strong>July 10, 2023:</strong>
+      Our paper <strong>Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) is now published online in <a href="https://www.springer.com/journal/12532" style="text-decoration: none;">Mathematical Programming Computation</a>! Go for it, it's <a href="https://link.springer.com/article/10.1007/s12532-023-00244-6">open access</a>.
+    </li>
+    <li>
+      <strong>July 4, 2023:</strong>
+      Our article <strong>A Survey on Bilevel Optimization Under Uncertainty</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) is finally published in <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research" style="text-decoration: none;">European Journal of Operational Research</a>. Go for it, it's <a href="https://www.sciencedirect.com/science/article/pii/S0377221723000073?via%3Dihub">open access</a>!
+    </li>
+    <li>
+      <strong>June 1, 2023:</strong>
+      I had the pleasure to present our current work on <strong>Exact Methods for Discrete Bilevel Problems with a Gamma-Robust Lower Level</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) at SIOP. There will be a preprint soon!
+    </li>
+    <li>
+      <strong>May 29, 2023:</strong>
+      Our paper <strong>On a Computationally Ill-Behaved Bilevel Problem with a Continuous and Nonconvex Lower Level</strong> (jointly with Daniel Bienstock, Martin Schmidt, and Johannes Th&uuml;rauf) is now published in <a href="https://www.springer.com/journal/10957" style="text-decoration: none;">Journal of Optimization Theory and Applications</a>. Go for it, it's <a href="https://link.springer.com/article/10.1007/s10957-023-02238-9">open access</a>!
+    </li>
+    <li>
+      <strong>May 21, 2023:</strong>
+      Our paper <strong>Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) has been accepted for publication in Mathematical Programming Computation! You can find the preprint <a href="https://optimization-online.org/2021/11/8678/">here</a>.
+    </li>
+    <li>
+      <strong>March 28, 2023:</strong>
+      The print of the latest SIAG on Optimization Views and News has just landed in our mailbox. If you haven't read our <strong>Brief Introduction to Robust Bilevel Optimization</strong> (jointly with Ivana Ljubi&cacute; and Martin Schmidt) yet and didn't get a copy, you can also find it <a href="https://siagoptimization.github.io/assets/views/ViewsAndNews-30-2.pdf">here</a>.
+    </li>
+  </ul>
+</div>
