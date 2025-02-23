@@ -23,22 +23,62 @@ author_profile: false
     ol li {
 	margin-bottom: 20px;
     }
+
+    .desktop-only {
+	display: block;
+    }
+    
+    .mobile-only {
+	display: none;
+    }
+    
+    /* Mobile View */
+    @media (max-width: 768px) {
+	.desktop-only {
+	    display: none;
+	}
+	.mobile-only {
+	    display: block;
+	}
+    }
   </style>
 </head>
 
-<div class="content">
-  <!-- Icons -->
-  <div style="margin-top: 10px; margin-left: -10px;">
-    <a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 10px; text-decoration: none">
-      <i class="ai ai-google-scholar" style="font-size: 1em;"></i> Google Scholar</a>|
-    <a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 10px; text-decoration: none">
-      <i class="ai ai-orcid" style="font-size: 1em;"></i> ORCID</a>|
-    <a href="https://github.com/YasmineBeck" style="margin: 0 10px; text-decoration: none">
-      <i class="fab fa-github" style="font-size: 1em;"></i> GitHub</a>|
-    <a href="/coauthors" style="margin: 0 10px; text-decoration: none">
-      <i class="fas fa-users" style="font-size: 1em;"></i> Co-Authors</a>
+<!-- Browser View -->
+<div class="desktop-only">
+  <div class="content">
+    <!-- Icons -->
+    <div style="margin-top: 10px; margin-left: -10px;">
+      <a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 10px; text-decoration: none">
+	<i class="ai ai-google-scholar" style="font-size: 1em;"></i> Google Scholar</a>|
+      <a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 10px; text-decoration: none">
+	<i class="ai ai-orcid" style="font-size: 1em;"></i> ORCID</a>|
+      <a href="https://github.com/YasmineBeck" style="margin: 0 10px; text-decoration: none">
+	<i class="fab fa-github" style="font-size: 1em;"></i> GitHub</a>|
+      <a href="/coauthors" style="margin: 0 10px; text-decoration: none">
+	<i class="fas fa-users" style="font-size: 1em;"></i> Co-Authors</a>
+    </div>
   </div>
-  
+</div>
+
+<!-- Mobile View -->
+<div class="mobile-only">
+  <div class="content">
+    <!-- Icons -->
+    <div style="text-align: center; margin-top: 10px; margin-left: -10px;">
+      <a href="https://scholar.google.de/citations?user=vdToQgcAAAAJ&hl=en" style="margin: 0 10px; text-decoration: none">
+	<i class="ai ai-google-scholar" style="font-size: 1em;"></i></a>|
+      <a href="https://orcid.org/0000-0001-5735-0149" style="margin: 0 10px; text-decoration: none">
+	<i class="ai ai-orcid" style="font-size: 1em;"></i></a>|
+      <a href="https://github.com/YasmineBeck" style="margin: 0 10px; text-decoration: none">
+	<i class="fab fa-github" style="font-size: 1em;"></i></a>|
+      <a href="/coauthors" style="margin: 0 10px; text-decoration: none">
+	<i class="fas fa-users" style="font-size: 1em;"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="content">
   <!-- Preprints -->
   <h2>Submitted Works and Preprints</h2>
 
